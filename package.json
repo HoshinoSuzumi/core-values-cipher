@@ -1,9 +1,16 @@
 {
-  "name": "@uniiem/typescript-lib-template",
+  "name": "@uniiem/cv-cipher",
   "type": "module",
   "version": "0.0.0",
-  "description": "TypeScript Library Template",
-  "keywords": [],
+  "description": "A simple cipher for the Chinese Core Values",
+  "keywords": [
+    "core-values",
+    "cipher"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:HoshinoSuzumi/core-values-cipher.git"
+  },
   "author": "HoshinoSuzumi <master@uniiem.com>",
   "license": "MIT",
   "main": "dist/index.umd.cjs",

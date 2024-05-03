@@ -4,7 +4,7 @@ export default defineConfig({
   build: {
     lib: {
       entry: 'src/index.ts',
-      name: 'lib',
+      name: 'core-values-cipher',
       fileName: 'index'
     }
   }
